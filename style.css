@@ -1,0 +1,36 @@
+.titulo-moda{
+  font-size: 20px;
+  margin-left: 30px;
+  height: 10px;
+}
+
+.tabela-moda{
+    margin-left: 30px;
+}
+
+.cabeçalho-moda{
+    color: aliceblue;
+    background: #BB86FC;
+}
+
+.cor-de-fundo-tabela{
+    color: aliceblue;
+    background: #424250;
+}
+
+.titulo-casa{
+    font-size: 20px;
+    margin-left: 30px;
+    height: 10px;
+}
+
+.tabela-casa{
+    margin-left: 30px;
+}
+
+.cabeçalho-casa{
+    color: aliceblue;
+    background: #00C4B4;
+
+
+}
